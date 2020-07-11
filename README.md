@@ -120,4 +120,4 @@ The longitudinal control (throttle/brake) relies on the speed target generated b
 Computing CTE value of steering for PID in `dbw_node.py`  is necessary.
 
 ## References
-The code in this project was adapted from the ROS courses, which were part of Udacity's Self-Driving Car Nanodegree program.
+The code in this project was adapted from the ROS courses, which were part of Udacity's Self-Driving Car Nanodegree program and [Carla AI](https://github.com/williamhyin/Udacity-CarND-capstone-CarlaAI).
